@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clswo971a775801p49o2zoyie/stats?cursusId=21&coalitionId=456" alt="jishin's 42 stats" /></a>
 
 <!--
 **suya314/suya314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
