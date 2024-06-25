@@ -1,11 +1,11 @@
-<a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clswo971a775801p49o2zoyie/stats?cursusId=21&coalitionId=456" alt="jishin's 42 stats" /></a>
+[![jishin's 42 stats](https://badge.mediaplus.ma/darkblue/jishin?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xhxhdk017)](https://solved.ac/xhxhdk017)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=xhxhdk017&theme=warm)
 
 <!--
-**suya314/suya314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shinj915/shinj915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
