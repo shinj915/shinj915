@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAutot&height=250&section=header&text=Hi%20there%20안녕하세요%20👋&fontSize=40&fontAlignY=36)
 
 ## 👨‍💻 About me
-<p>
   - 🌱 I’m currently learning Computer Engineering
-</p>
+<br/>
 
 ## 📚 Techs, Languages and Tools that I've used at least once
 <p>
