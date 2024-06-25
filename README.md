@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAutot&height=250&section=header&text=Hi%20there%20안녕하세요%20👋&fontSize=40&fontAlignY=36)
 
 ## 👨‍💻 About me
-- 🌱 I’m currently learning Computer Engineering
-
+<p>
+  - 🌱 I’m currently learning Computer Engineering
+</p>
 
 ## 📚 Techs, Languages and Tools that I've used at least once
-
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -31,7 +31,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 <br>
-
 
 ## 42 Born2code
 [![jishin's 42 stats](https://badge.mediaplus.ma/darkblue/jishin?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
